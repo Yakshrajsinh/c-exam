@@ -1,0 +1,12 @@
+Student 1:
+Name: yakshraj
+Course: full stack
+
+Student 2:
+Name: dhruv
+Course: graphics
+
+Student 3:
+Name: darshan
+Course: AI
+

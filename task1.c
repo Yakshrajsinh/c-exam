@@ -3,8 +3,8 @@
 int main(){
     char letter;
     printf("enter any letter:");
-    scanf("%d",&letter);
-
+    scanf("%c",&letter);
+    
     switch(letter){
         case 'a':
         case 'e':
@@ -16,10 +16,10 @@ int main(){
         case 'I':
         case 'O':
         case 'U':
-        printf("%d is a vovel",letter);
+        printf("%c is a vovel",letter);
         break;
         default:
-        printf("%d is consonant",letter);
+        printf("%c is consonant",letter);
         break;
     }
 
